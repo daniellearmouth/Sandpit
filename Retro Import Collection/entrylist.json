@@ -1,0 +1,220 @@
+{
+    "entries": [
+        {
+            "name_eng": "Digital Devil Story:<br>Megami Tensei",
+            "name_jpn": "デジタルデビル<ruby>物語<rt>ストーリ</rt></ruby> 女神転生",
+            "value": [
+                "NAM-MT-4900",
+                "1987.09.11",
+                "Nintendo Famicom",
+                "Role Playing"
+            ],
+            "rir": null,
+            "box_art": "../img/set/1987-09-11_NAM-MT-4900.jpg"
+        },
+        {
+            "name_eng": "F-Zero",
+            "name_jpn": "エフゼロ",
+            "value": [
+                "SHVC-FZ",
+                "1990.11.21",
+                "Nintendo Super Famicom",
+                "Futuristic Racing"
+            ],
+            "rir": null,
+            "box_art": "img/set/none.png"
+        },
+        {
+            "name_eng": "Super Mario World",
+            "name_jpn": "スーパーマリオワールド",
+            "value": [
+                "SHVC-MW",
+                "1990.11.21",
+                "Nintendo Super Famicom",
+                "Platformer"
+            ],
+            "rir": null,
+            "box_art": "img/set/1990-11-21_SHVC-MW.jpg"
+        },
+        {
+            "name_eng": "Final Fantasy IV",
+            "name_jpn": "ファイナルファンタジーⅣ",
+            "value": [
+                "SHVC-F4",
+                "1991.07.19",
+                "Nintendo Super Famicom",
+                "Role Playing"
+            ],
+            "rir": null,
+            "box_art": "img/set/1991-07-19_SHVC-F4.jpg"
+        },
+        {
+            "name_eng": "Area 88",
+            "name_jpn": "エリア88",
+            "value": [
+                "SHVC-E8",
+                "1991.07.26",
+                "Nintendo Super Famicom",
+                "Shoot-'em-up"
+            ],
+            "rir": null,
+            "box_art": "img/set/none.png"
+        },
+        {
+            "name_eng": "Final Fantasy IV EasyType",
+            "name_jpn": "ファイナルファンタジーⅣ<br>イージータイプ",
+            "value": [
+                "SHVC-FE",
+                "1991.10.29",
+                "Nintendo Super Famicom",
+                "Role Playing"
+            ],
+            "rir": null,
+            "box_art": "img/set/1991-10-29_SHVC-FE.jpg"
+        },
+        {
+            "name_eng": "Contra III: The Alien Wars",
+            "name_jpn": "<ruby>魂斗羅<rt>コントラ</rt></ruby>スピリッツ",
+            "value": [
+                "SHVC-CS",
+                "1992.02.28",
+                "Nintendo Super Famicom",
+                "Run and Gun Shooter"
+            ],
+            "rir": null,
+            "box_art": "img/set/1992-02-28_SHVC-CS.jpg"
+        },
+        {
+            "name_eng": "Parodius! From Myth to Laughter",
+            "name_jpn": "パロディウスだ!<br>～神話からお笑いへ～",
+            "value": [
+                "SHVC-PD",
+                "1992.07.03",
+                "Nintendo Super Famicom",
+                "Shoot-'em-up"
+            ],
+            "rir": null,
+            "box_art": "img/set/1992-07-03_SHVC-PD.jpg"
+        },
+        {
+            "name_eng": "Super Mario Kart",
+            "name_jpn": "スーパーマリオカート",
+            "value": [
+                "SHVC-MK",
+                "1992.08.27",
+                "Nintendo Super Famicom",
+                "Kart Racing"
+            ],
+            "rir": null,
+            "box_art": "img/set/1992-08-27_SHVC-MK.jpg"
+        },
+        {
+            "name_eng": "Shin Megami Tensei",
+            "name_jpn": "真・女神転生",
+            "value": [
+                "SHVC-ME",
+                "1992.10.30",
+                "Nintendo Super Famicom",
+                "Role Playing"
+            ],
+            "rir": null,
+            "box_art": "img/set/1992-10-30_SHVC-ME.jpg"
+        },
+        {
+            "name_eng": "The Legend of Zelda:<br>A Link to the Past",
+            "name_jpn": "ゼルダの伝説<br>神々のトライフォース",
+            "value": [
+                "SHVC-ZL",
+                "1992.11.21",
+                "Nintendo Super Famicom",
+                "Action Adventure"
+            ],
+            "rir": null,
+            "box_art": "img/set/1992-11-21_SHVC-ZL.jpg"
+        },
+        {
+            "name_eng": "Another World",
+            "name_jpn": "アウターワールド",
+            "value": [
+                "SHVC-ME",
+                "1992.11.27",
+                "Nintendo Super Famicom",
+                "Cinematic Platformer"
+            ],
+            "rir": null,
+            "box_art": "img/set/1992-11-27_SHVC-TW.jpg"
+        },
+        {
+            "name_eng": "Final Fantasy V",
+            "name_jpn": "ファイナルファンタジーⅤ",
+            "value": [
+                "SHVC-F5",
+                "1992.12.06",
+                "Nintendo Super Famicom",
+                "Role Playing"
+            ],
+            "rir": null,
+            "box_art": "img/set/1992-12-06_SHVC-F5.jpg"
+        },
+        {
+            "name_eng": "Star Fox",
+            "name_jpn": "スターフォックス",
+            "value": [
+                "SHVC-FO",
+                "1993.02.21",
+                "Nintendo Super Famicom",
+                "Rail Shooter"
+            ],
+            "rir": null,
+            "box_art": "img/set/1993-02-21_SHVC-FO.jpg"
+        },
+        {
+            "name_eng": "JoJo's Bizarre Adventure",
+            "name_jpn": "ジョジョの奇妙な冒険",
+            "value": [
+                "SHVC-JK",
+                "1993.03.05",
+                "Nintendo Super Famicom",
+                "Role Playing"
+            ],
+            "rir": null,
+            "box_art": "img/set/none.png"
+        },
+        {
+            "name_eng": "Super Bomberman",
+            "name_jpn": "スーパーボンバーマン",
+            "value": [
+                "SHVC-H6",
+                "1993.04.28",
+                "Nintendo Super Famicom",
+                "Puzzle Action"
+            ],
+            "rir": null,
+            "box_art": "img/set/1993-04-28_SHVC-H6.jpg"
+        },
+        {
+            "name_eng": "Super Mario All-Stars",
+            "name_jpn": "スーパーマリオコレクション",
+            "value": [
+                "SHVC-4M",
+                "1993.07.14",
+                "Nintendo Super Famicom",
+                "Platformer"
+            ],
+            "rir": null,
+            "box_art": "img/set/1993-07-14_SHVC-4M.jpg"
+        },
+        {
+            "name_eng": "Secret of Mana",
+            "name_jpn": "聖剣伝説2",
+            "value": [
+                "SHVC-4M",
+                "1993.07.14",
+                "Nintendo Super Famicom",
+                "Platformer"
+            ],
+            "rir": null,
+            "box_art": "img/set/1993-07-14_SHVC-4M.jpg"
+        }
+    ]
+}
